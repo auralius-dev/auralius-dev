@@ -1,1 +1,1 @@
-![Metrics](https://github.com/auralius-dev/auralius-dev/blob/main/github-metrics.svg)
+[![Metrics](https://github.com/auralius-dev/auralius-dev/blob/main/github-metrics.svg)](https://github.com/auralius-dev?tab=repositories)
