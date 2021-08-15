@@ -19,7 +19,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
-          plugin_lines: yes
+          plugin_lines: no
           plugin_gists: yes
           plugin_habits: yes
           verify: yes
