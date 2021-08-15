@@ -19,7 +19,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
-          plugin_lines: yes
+          plugin_lines: no # Causes errors when trying to get the amount of contributors to a repositiory if there is no contributors.
           plugin_gists: yes
           plugin_habits: yes
           verify: yes
