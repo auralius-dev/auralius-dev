@@ -236,7 +236,7 @@
                     <rect mask="url(#languages-bar)" x="198.4828751909679" y="0" width="113.11973822500082" height="8" fill="#5686a5"/>
                     <rect mask="url(#languages-bar)" x="311.6026134159687" y="0" width="72.15520136955132" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="383.75781478552005" y="0" width="29.421299556846133" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="413.1791143423662" y="0" width="28.220125036568323" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="413.1791143423662" y="0" width="28.220125036568323" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="441.39923937893445" y="0" width="18.60076062106552" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
@@ -266,7 +266,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -352,7 +352,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Nov 2024, 17:56:33 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Dec 2024, 17:42:32 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
